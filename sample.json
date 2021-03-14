@@ -33,5 +33,5 @@
 			}
 		}
 	],
-	"view": ["hz", "selector", "picture", "hz"]
+	"view": ["hz", "hz", "selector", "picture", "hz"]
 }
