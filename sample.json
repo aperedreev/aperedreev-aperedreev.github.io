@@ -28,10 +28,13 @@
 					}, {
 						"id": 3,
 						"text": "Вариант три"
+					}, {
+						"id": 4,
+						"text": "Вариант четыре"
 					}
 				]
 			}
 		}
 	],
-	"view": ["hz", "hz", "selector", "picture", "hz"]
+	"view": ["hz", "selector", "picture", "hz"]
 }
