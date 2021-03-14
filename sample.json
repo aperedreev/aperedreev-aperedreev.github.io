@@ -5,6 +5,11 @@
 				"text": "Текстовый блок"
 			}
 		}, {
+			"name": "hz",
+			"data": {
+				"text": "Другой текстовый блок"
+			}
+		}, {
 			"name": "picture",
 			"data": {
 				"url": "https://pryaniky.com/static/img/logo-a-512.png",
