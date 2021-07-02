@@ -1,0 +1,19 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appIDs": [ "8LUA4BFRYV.ru.topseller.Topseller" ],
+             "components": [
+               {
+                  "#": "/",
+                  "exclude": true,
+                  "comment": "Matches any URL whose fragment equals no_universal_links and instructs the system not to open it as a universal link"
+               }
+             ]
+           }
+       ]
+   },
+   "webcredentials": {
+      "apps": [ "8LUA4BFRYV.ru.topseller.Topseller" ]
+   }
+}
